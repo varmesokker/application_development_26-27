@@ -1,0 +1,223 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-2421b1fe1cd7b3786dcb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "database_integration",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-ca35207d65aeaeb23904.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-d1a9bd69c9ff5b6f462c.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-f9d283b0160211d878ad.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-32184e1443a581a7fc39.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-44e366a8da33aa93963f.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdatabase_integration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdatabase_integration-Debug-69eaf9546b0ee7f1398e.json",
+					"name" : "appdatabase_integration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdatabase_integration_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdatabase_integration_autogen-Debug-940ef9a34d3f4aa85d10.json",
+					"name" : "appdatabase_integration_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdatabase_integration_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdatabase_integration_autogen_timestamp_deps-Debug-e5331b2ab0f0bf96fdf5.json",
+					"name" : "appdatabase_integration_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdatabase_integration_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdatabase_integration_copy_qml-Debug-cc32fe047927e8e4599e.json",
+					"name" : "appdatabase_integration_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdatabase_integration_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdatabase_integration_copy_res-Debug-7d624027ad670513ab47.json",
+					"name" : "appdatabase_integration_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdatabase_integration_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdatabase_integration_qmlimportscan-Debug-bcb78e0c8f6f07ec34ab.json",
+					"name" : "appdatabase_integration_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdatabase_integration_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdatabase_integration_qmllint-Debug-029c62f3e18e71ff434b.json",
+					"name" : "appdatabase_integration_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdatabase_integration_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdatabase_integration_qmllint_json-Debug-061e3e89a799c83b8cfd.json",
+					"name" : "appdatabase_integration_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdatabase_integration_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdatabase_integration_qmllint_module-Debug-550c153b081400ac9bc0.json",
+					"name" : "appdatabase_integration_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdatabase_integration_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdatabase_integration_qmltyperegistration-Debug-cecdf545346183d9dd01.json",
+					"name" : "appdatabase_integration_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "clean_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-clean_qml_context_properties-Debug-9599411958a451112adc.json",
+					"name" : "clean_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dump_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dump_qml_context_properties-Debug-0ab56ea44b494d6d08c6.json",
+					"name" : "dump_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-be4e6c97eccbe5a2e452.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appdatabase_integration_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appdatabase_integration_aotstats_target-Debug-54ba4534e11a9d3bf4c9.json",
+					"name" : "module_appdatabase_integration_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/hanneswe_a/Documents/Programmering/2026-2027/database_integration/build/Desktop_Qt_6_11_2_MSVC2022_64bit_Debug",
+		"source" : "C:/Users/hanneswe_a/Documents/Programmering/2026-2027/database_integration"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

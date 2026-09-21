@@ -1,0 +1,6 @@
+module database_integration
+typeinfo appdatabase_integration.qmltypes
+prefer :/qt/qml/database_integration/
+Main 254.0 Main.qml
+depends QtQuick
+

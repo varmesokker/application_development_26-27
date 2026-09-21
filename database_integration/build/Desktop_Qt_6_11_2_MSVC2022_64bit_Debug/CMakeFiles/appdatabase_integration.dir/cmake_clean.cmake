@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appdatabase_integration_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_database_integration.cpp"
+  ".rcc/qmlcache/appdatabase_integration_Main_qml.cpp"
+  ".rcc/qmlcache/appdatabase_integration_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appdatabase_integration_qmlcache_loader.cpp"
+  "CMakeFiles/appdatabase_integration_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appdatabase_integration_autogen.dir/ParseCache.txt"
+  "appdatabase_integration_autogen"
+  "CMakeFiles/appdatabase_integration.dir/ac55a0a2bc1e5ab3e94c7993c5a7bc6d/qmlcache/appdatabase_integration_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appdatabase_integration.dir/ac55a0a2bc1e5ab3e94c7993c5a7bc6d/qmlcache/appdatabase_integration_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appdatabase_integration.dir/appdatabase_integration_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appdatabase_integration.dir/appdatabase_integration_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appdatabase_integration.dir/appdatabase_integration_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appdatabase_integration.dir/appdatabase_integration_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appdatabase_integration.dir/build/Desktop_Qt_6_11_2_MSVC2022_64bit_Debug/.qt/rcc/qrc_qmake_database_integration.cpp.obj"
+  "CMakeFiles/appdatabase_integration.dir/build/Desktop_Qt_6_11_2_MSVC2022_64bit_Debug/.qt/rcc/qrc_qmake_database_integration.cpp.obj.d"
+  "CMakeFiles/appdatabase_integration.dir/d1271e2eb5faa3f7ff95f35f0c72c6a9/.qt/rcc/qrc_appdatabase_integration_raw_qml_0.cpp.obj"
+  "CMakeFiles/appdatabase_integration.dir/d1271e2eb5faa3f7ff95f35f0c72c6a9/.qt/rcc/qrc_appdatabase_integration_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appdatabase_integration.dir/d1271e2eb5faa3f7ff95f35f0c72c6a9/.rcc/qmlcache/appdatabase_integration_Main_qml.cpp.obj"
+  "CMakeFiles/appdatabase_integration.dir/d1271e2eb5faa3f7ff95f35f0c72c6a9/.rcc/qmlcache/appdatabase_integration_Main_qml.cpp.obj.d"
+  "CMakeFiles/appdatabase_integration.dir/main.cpp.obj"
+  "CMakeFiles/appdatabase_integration.dir/main.cpp.obj.d"
+  "appdatabase_integration.exe"
+  "appdatabase_integration.exe.manifest"
+  "appdatabase_integration.lib"
+  "appdatabase_integration.pdb"
+  "appdatabase_integration_autogen/mocs_compilation.cpp"
+  "appdatabase_integration_autogen/timestamp"
+  "appdatabase_integration_qmltyperegistrations.cpp"
+  "database_integration/appdatabase_integration.qmltypes"
+  "meta_types/appdatabase_integration_json_file_list.txt"
+  "meta_types/appdatabase_integration_json_file_list.txt.timestamp"
+  "meta_types/qt6appdatabase_integration_metatypes.json"
+  "meta_types/qt6appdatabase_integration_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appdatabase_integration.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

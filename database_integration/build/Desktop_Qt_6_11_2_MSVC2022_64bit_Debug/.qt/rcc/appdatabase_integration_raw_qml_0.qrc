@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/database_integration/">
+    <file alias="Main.qml">C:/Users/hanneswe_a/Documents/Programmering/2026-2027/database_integration/Main.qml</file>
+  </qresource>
+</RCC>
+
